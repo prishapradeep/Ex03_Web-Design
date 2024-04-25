@@ -25,9 +25,73 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
+<html>
+<head> <title>my first page </title>
+</head>
+<body>
+<h1 id="des1">
+Saveetha Engg. College
+</h1>
+<table class="tab" border=2>
+<tr>
+<th>S.no.</th>
+<th>Name</th>
+<th>Dept</th>
+
+</tr>
+<tr></tr>
+<td>1.</td>
+<td>Suruthi</td>
+<td>Agri</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Abhisha</td>
+<td>Bio med</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Catharin</td>
+<td>Mech</td>
+</tr>
+</table>
+
+
+<h1 id="des1">
+    college
+    </h1>
+    <table class="tab" border=2>
+    <tr>
+    <th>S.no.</th>
+    <th>Name of the college</th>
+    <th>p1ace</th>
+    
+    </tr>
+    <tr>
+    <td>1.</td>
+    <td>saveetha</td>
+    <td>thandalam</td>
+    </tr>
+    <tr>
+    <td>2.</td>
+    <td>rajalakshmi</td>
+    <td>thandalam</td>
+    </tr>
+    <td>3.</td>
+    <td>madha</td>
+    <td>kundrathur</td>
+    </table>
+    
+    
+</body>
+</html>
+```
+
 
 
 ## OUTPUT
+![Screenshot (8)](https://github.com/prishapradeep/Ex03_Web-Design/assets/166732237/6b008252-decf-4392-80bc-e9ba02c51632)
 
 
 ## RESULT
